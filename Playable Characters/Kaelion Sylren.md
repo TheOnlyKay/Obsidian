@@ -1,3 +1,8 @@
+# Portrait
+
+| ![[Young Kaelion.webp\|325]] | ![[Older Kaelion.webp\|325]] |
+| ---------------------------- | ---------------------------- |
+
 # Portrayal
 Kealion is portrayed by Keanu
 
@@ -14,7 +19,7 @@ Kealion is portrayed by Keanu
 
 
 # Backstory
-Kaelion Sylren was born under a sky of falling stars, a celestial omen among the **Skywatchers of the High Forest**. Their tribe believed the heavens wove the tapestry of fate, and those who could read the stars could see a glimpse of the future. Since early childhood Kaelion has been fascinated by the night sky, spending hours tracing constellations and seeking meaning in their ever changing patterns. Their greatest joy was sharing these quiet nights with **[[Eluna]]**, their closest companion - a fellow Skywatcher and the only person who truly understood them.
+Kaelion Sylren was born under a sky of falling stars, a celestial omen among the **Skywatchers of the High Forest**. Their tribe believed the heavens wove the tapestry of fate, and those who could read the stars could see a glimpse of the future. Since early childhood Kaelion has been fascinated by the night sky, spending hours tracing constellations and seeking meaning in their ever changing patterns. Their greatest joy was sharing these quiet nights with **[[Eluna Stormwhisper]]**, their closest companion - a fellow Skywatcher and the only person who truly understood them.
 
 **Eluna** was Kaelion's guiding light, both in tribe and in life. The two were inseparable, spending their days training the druidic arts, and their nights mapping the heavens together. They spoke of destiny, of adventure, of the day they would leave the High Forest to explore the world beyond. But fate, ever cruel, had other plans.
 
@@ -37,4 +42,28 @@ Taking up their quarterstaff and the wisdom of the heavens, Kaelion sets out onc
 6. **Unshakably Calm... Until they don't have their Quarterstaff**  -Kaelion is typically serene and wise, but if someone misplaces or damages their **quarterstaff** (which they hand-carved with star patterns together with Eluna), they get **unexpectedly flustered** and dramatic.
 
 # Parental Relationships
-## Mother
+## Mother - Sylwen Starbloom
+Sylwen is a Druid and a Skywatcher Elder
+
+- A **stoic and wise** elven woman, deeply respected in the tribe for her celestial readings and connection to the land.
+- She was **a guiding but distant presence** in Kaelion's life, expecting them to embrace their role as a druid and protector of the stars.
+- Kaelion **adores her but also resents the pressure** she placed on them, feeling as though their destiny was decided before they could choose.
+- She never fully approved of Kaelion's deep bond with **Eluna**, believing their friendship was a distraction from their sacred duties.
+
+## Father - Therion Sylren
+Therion was a Hunter and Storyteller
+
+- A **warm, charming**, and somewhat carefree hunter who believed that wile the stars guide, *people make their own choices*.
+- He **told Kaelion stories of the stars** not just as cosmic fate, but as legends of adventure, heroes, and fools who dared to challenge destiny.
+- Unlike Sylwen, he **encouraged Kaelion's curiosity** and independence, often sneaking them out of ritual lessons to watch meteor showers together.
+- He was **Kaelion's emotional anchor**, balancing their mother's discipline with humor and love
+- His **death** is something Kaelion rarely talks about, perhaps it was the first time they felt like the stars had truly abandoned them.
+
+
+## Relationships and Bonds
+1. **Eluna (Lost Loved One)**
+	1. Their **best friend, possibly first love** Kaelion lost. Their disappearance still haunts Kaelion.
+	2. Shared a love for the **stars, adventure, and fate**, but where Kaelion was cautious, Eluna was **bold, reckless, and always chasing the unknown**.
+	3. Their final conversation before disappearing was a **disagreement about destiny**, Kaelion saw omens in the stars, while Eluna **refused to be bound by fate**.
+	4. Now, Kaelion wonders: *Was she right? Did she escape fate... or become a victim of it*.
+2. 
