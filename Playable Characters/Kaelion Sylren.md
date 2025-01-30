@@ -66,4 +66,27 @@ Therion was a Hunter and Storyteller
 	2. Shared a love for the **stars, adventure, and fate**, but where Kaelion was cautious, Eluna was **bold, reckless, and always chasing the unknown**.
 	3. Their final conversation before disappearing was a **disagreement about destiny**, Kaelion saw omens in the stars, while Eluna **refused to be bound by fate**.
 	4. Now, Kaelion wonders: *Was she right? Did she escape fate... or become a victim of it*.
-2. 
+
+
+
+
+
+# Backstory version 2
+
+### Kaelion Sylren - The Starborn Seeker
+Kaelion Sylren was born under a sky of **falling stars**, a celestial omen that foretold great significance. The **Skywatchers of the High Forest**, an ancient tribe of wood elves, believed that the heavens wove the tapestry of fate, and those who could read the stars, could catch glimpses of the future. It was said that those born under extraordinary celestial events were destined for something great- something extraordinary. This meant that Kaelion's destiny was intertwined with the stars themselves, as if Kaelion was written into the very fabric of the cosmos. From a young age they have felt this connection deep in their bones, as though the heavens themselves were speaking directly to Kaelion.
+
+Growing up in the heart of the **High Forest**, a vast and untouched wilderness, Kaelion was drawn to the mysteries of the night sky. As a child, they would often wander from the safety of their family's home, slipping into the cool night air to gaze up at the stars. With every nightfall, they felt the pull of the sky-its patterns, its hidden meanings. Kaelion would trace constellations, carefully sketching the observations into an old, worn journal, convinced that each star held a secret to be discovered. These quiet, solitary moments under the vast canopy of stars were Kaelion's greatest joy, and it was during these nights that they first met **[[Eluna Stormwhisper]]**, a fellow Skywatcher apprentice.
+
+### Eluna - The Guiding Light
+Eluna was everything that Kaelion wasn't. Where Kaelion was intuitive, feeling their way through the mysteries of the world, Eluna was meticulous, driven by a thirst for knowledge and a determination to understand the hidden truths of the stars. Unlike the rest of the tribe, who seemed to grasp the celestial arts with natural ease, Eluna had to work tirelessly to connect with the heavens. Yet it was this very dedication that Kaelion admired-Eluna's drive was infectious, and the two quickly became inseparable. They spent their days together, training in the druidic arts, learning how to speak to the land and commune with the natural world. Their nights were spent mapping the heavens, tracing the paths of the stars, searching for meaning in the ever-changing sky.
+
+The bond between Kaelion and Eluna grew stronger with each passing season. The two were more than companions; they were partners, friends, and, perhaps unknowingly, two souls bound by the very stars they studied. They often spoke about destiny and adventure, dreaming of the day they would leave the High Forest behind, exploring the world beyond the trees. Eluna, more than anyone, understood Kaelion's deep connection to the celestial world and was always there to challenge their assumptions, push them to learn more, to see beyond the obvious.
+
+Eluna was Kaelion's light in the darkness- the one person who knew Kaelion inside and out, who shared their passion for the stars and their dreams of a world full of discovery. Together they were unstoppable, a force that seemed destined for greatness.
+
+But as the seasons passed, something ominous began to stir in the heavens. The stars seemed to shift, becoming restless, as if preparing to reveal something the world was not ready to know.
+
+### The Night of the Omen
+One evening, as Kaelion and Eluna gazed up at the sky, a sudden flash of light caught their attention. An unfamiliar constellation flickered into existence, its patterns unlike any Kaelion had seen before. At first, it was faint, a brief flash of light among the familiar stars. But then it pulsed, a steady, rhythmic glow that seemed to pulse with an unspoken energy. Kaelion's heart skipped a beat, there was something deeply wrong with the stars that night, something they couldn't explain, yet it gnawed at Kaelion's very soul.
+
