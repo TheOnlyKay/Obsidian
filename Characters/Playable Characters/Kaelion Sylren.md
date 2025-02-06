@@ -8,12 +8,12 @@ Kealion is portrayed by Keanu
 
 # Overview
 
-| **What**   | **Value** |
-| ---------- | --------- |
-| Species    | Wood Elf  |
-| Class      | Druid     |
-| Subclass   |           |
-| Background | Hermit    |
+| **What**   | **Value**           |
+| ---------- | ------------------- |
+| Species    | Wood Elf            |
+| Class      | Druid               |
+| Subclass   | Circle of the Stars |
+| Background | Hermit              |
 
 # Physical Appearance
 
