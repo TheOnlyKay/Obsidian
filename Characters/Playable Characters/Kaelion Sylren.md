@@ -51,7 +51,7 @@ Kaelion was consumed by guilt and sorrow. They could not bear the thought of con
 Time passed, but Kaelion's heart remained broken. Memories of Eluna haunted their every step, and every night beneath the stars felt like a reminder of what had been lost. Yet Kaelion couldn't stop searching, even as the world outside the forest moved on.
 
 ### The Return of the Omen
-Now, years later, Kaelion;s heart has stirred once again. The strange constellation that had flickered into existence the night Eluna vanished has reappeared, brighter and more intense than ever before. Its light pulses with an unspoken message, one Kaelion feels deep within their bones- this is no coincidence. The time has come. The stars are calling again, but this time, Kaelion knows they cannot ignore their summons.
+Now, years later, Kaelion's heart has stirred once again. The strange constellation that had flickered into existence the night Eluna vanished has reappeared, brighter and more intense than ever before. Its light pulses with an unspoken message, one Kaelion feels deep within their bones- this is no coincidence. The time has come. The stars are calling again, but this time, Kaelion knows they cannot ignore their summons.
 
 The mourning is over, and the stars have not forgotten them. With their quarterstaff in hand, a new resolve has taken root within Kaelion. They must seek the truth, no matter the cost. The search for Eluna is no longer just a matter of grief- it is a quest for understanding, for redemption, and for the cosmic answers that have eluded them for so long.
 
