@@ -86,7 +86,7 @@ Therion was a Hunter and Storyteller
 - His **death** is something Kaelion rarely talks about, perhaps it was the first time they felt like the stars had truly abandoned them.
 
 
-## Relationships and Bonds
+# Relationships and Bonds
 1. **Eluna (Lost Loved One)**
 	1. Their **best friend, possibly first love** Kaelion lost. Their disappearance still haunts Kaelion.
 	2. Shared a love for the **stars, adventure, and fate**, but where Kaelion was cautious, Eluna was **bold, reckless, and always chasing the unknown**.
