@@ -58,7 +58,7 @@ The mourning is over, and the stars have not forgotten them. With their quarters
 With the wisdom of the heavens as their guide, Kaelion steps beyond the forest's borders, ready to follow the stars wherever they may lead. Whether the path leads to redemption or ruin, Kaelion will no longer hide from the truth. The stars have spoken, and Kaelion will answer.
 
 # Character Quirks
-1. **Starry-Eyed Dreamer** - Kaelion often loses themselves staring at the night sky, mid-conversation, mid-battle, or even mid-bite. They'll pause, eyes locked on a constellation, muttering, "*Strange... that star wasnt there last week*"
+1. **Starry-Eyed Dreamer** - Kaelion often loses themselves staring at the night sky, mid-conversation, mid-battle, or even mid-bite. They'll pause, eyes locked on a constellation, muttering, "*Strange... that star wasn't there last week*"
 2. **Symbolic Rituals** - Kaelion has a habit of **drawing constellations in the dirt** or carving them into wood when deep in thought. When nervous, they might trace a star shape on their wrist with their finger.
 3. **Cryptic but Playful** - They have a way of speaking in vague, mysterious phrases, even when it's unnecessary
 	1. "*The stars whisper of many paths... but sure, let's take the left one*"
@@ -82,7 +82,7 @@ Therion was a Hunter and Storyteller
 - A **warm, charming**, and somewhat carefree hunter who believed that wile the stars guide, *people make their own choices*.
 - He **told Kaelion stories of the stars** not just as cosmic fate, but as legends of adventure, heroes, and fools who dared to challenge destiny.
 - Unlike Sylwen, he **encouraged Kaelion's curiosity** and independence, often sneaking them out of ritual lessons to watch meteor showers together.
-- He was **Kaelion's emotional anchor**, balancing their mother's discipline with humor and love
+- He was **Kaelion's emotional anchor**, balancing their mother's discipline with humour and love
 - His **death** is something Kaelion rarely talks about, perhaps it was the first time they felt like the stars had truly abandoned them.
 
 
@@ -94,4 +94,11 @@ Therion was a Hunter and Storyteller
 	4. Now, Kaelion wonders: *Was she right? Did she escape fate... or become a victim of it*.
 
 
+
 # Redacted Backstory for Marleen's Character
+Kaelion was born into the **Skywatchers of the High Forest** tribe, an ancient tribe of wood elves. This tribe believed that the heavens wove the tapestry of fate, and those who could read the stars, could catch glimpses of the future. According to the tribe Kaelion's destiny was intertwined with the stars themselves, as if Kaelion was written into the very fabric of the cosmos. 
+
+Growing up in the heart of the **High Forest**, a vast and untouched wilderness, Kaelion was drawn to the mysteries of the night sky. As a child, they would often wander from the safety of their family's home, slipping into the cool night air to gaze upon the stars. With every nightfall Kaelion felt the pull of the sky, it's patterns and it's hidden meanings. Kaelion would trace constellations, carefully stretching the observation into an old, worn journal, convinced that each star held a secret to be discovered. These quiet, solitary moments under the vast canopy of stars were Kaelion's greatest joy.
+
+As Kaelion grew older and the seasons passed, something ominous began to stir in the heavens. The stars seemed to shift, becoming restless, as if preparing to reveal something the world was not ready to know.
+
