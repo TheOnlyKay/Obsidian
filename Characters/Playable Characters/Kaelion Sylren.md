@@ -92,3 +92,6 @@ Therion was a Hunter and Storyteller
 	2. Shared a love for the **stars, adventure, and fate**, but where Kaelion was cautious, Eluna was **bold, reckless, and always chasing the unknown**.
 	3. Their final conversation before disappearing was a **disagreement about destiny**, Kaelion saw omens in the stars, while Eluna **refused to be bound by fate**.
 	4. Now, Kaelion wonders: *Was she right? Did she escape fate... or become a victim of it*.
+
+
+# Redacted Backstory for Marleen's Character
