@@ -104,4 +104,3 @@ As Kaelion grew older and the seasons passed, something ominous began to stir in
 
 One evening as Kaelion gazed up at the sky, a sudden flash of light caught their attention. An unfamiliar constellation flickered into existence, its patterns unlike any Kaelion had seen before. At first, it was faint, a brief flash of light among the familiar stars. But then it pulsed, a steady, rhythmic glow that seemed to pulse with an unspoken energy. Kaelion's heart skipped a beat, there was something deeply wrong with the stars that night, something they couldn't explain, yet it gnawed at Kaelion's very soul.
 
-
